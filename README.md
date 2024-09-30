@@ -11,6 +11,6 @@ Obrigada por visitar o meu perfil do GitHub! Eu sou a **Bianca Liebetanz**, nasc
 
 biancalbtz@gmail.com 
 
-![@bianca.liebetanz]( https://www.instagram.com/bianca.liebetanz?igsh=ZjBidXlwZDk0d21x)
+[@bianca.liebetanz]( https://www.instagram.com/bianca.liebetanz?igsh=ZjBidXlwZDk0d21x)
 
 ![](https://media1.tenor.com/m/GOabrbLMl4AAAAAd/plink-cat-plink.gif)
