@@ -1,4 +1,4 @@
-## Boas vindas! 💖
+### Boas vindas! 💖
 
 Obrigada por visitar o meu perfil do GitHub! Eu sou a **Bianca Liebetanz**, nasci em 2006 e estou no último ano do ensino médio. Aqui estão algumas informações caso você queira me conhecer melhor:
 
@@ -7,7 +7,7 @@ Obrigada por visitar o meu perfil do GitHub! Eu sou a **Bianca Liebetanz**, nasc
 - Estou estudando na [Alura](https://www.alura.com.br).
 - Possuo diploma técnico em informática.
 
-## Gostaria de entrar em contato comigo? Acesse minhas redes! 😇
+### Gostaria de entrar em contato comigo? Acesse minhas redes! 😇
 
 biancalbtz@gmail.com 
 
