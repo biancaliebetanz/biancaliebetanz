@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas! 💖
 
-<!--
-**biancaliebetanz/biancaliebetanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Obrigada por visitar o meu perfil do GitHub! Eu sou a **Bianca Liebetanz**, nasci em 2006 e estou no último ano do ensino médio. Aqui estão algumas informações caso você queira me conhecer melhor:
 
-Here are some ideas to get you started:
+- Eu estudo programação desde 2022.
+- Tenho estudado JavaScript e ReactJs para desenvolver meus projetos.
+- Estou estudando na [Alura](https://www.alura.com.br).
+- Possuo diploma técnico em informática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Gostaria de entrar em contato comigo? Acesse minhas redes! 😇
+
+biancalbtz@gmail.com 
+
+@bianca.liebetanz 
+
+![](https://media1.tenor.com/m/GOabrbLMl4AAAAAd/plink-cat-plink.gif)
