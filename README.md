@@ -6,6 +6,7 @@ Obrigada por visitar o meu perfil do GitHub! Eu sou a **Bianca Liebetanz**, nasc
 - Tenho utilizado JavaScript e ReactJs para desenvolver meus projetos.
 - Estou estudando na [Alura](https://www.alura.com.br).
 - Possuo diploma técnico em informática.
+- Estou em busca de experiencias profissionais!
 
 ### Gostaria de entrar em contato comigo? Acesse minhas redes! 😇
 
