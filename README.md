@@ -14,6 +14,6 @@ biancalbtz@gmail.com
 
 [@bianca.liebetanz](https://www.instagram.com/bianca.liebetanz?igsh=ZjBidXlwZDk0d21x)
 
-[Bianca Liebetanz | LinkedIn](www.linkedin.com/in/bianca-liebetanz)
+[Bianca Liebetanz | LinkedIn](https://www.linkedin.com/in/bianca-liebetanz)
 
 ![](https://media1.tenor.com/m/GOabrbLMl4AAAAAd/plink-cat-plink.gif)
