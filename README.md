@@ -2,7 +2,7 @@
 
 Obrigada por visitar o meu perfil do GitHub! Eu sou a **Bianca Liebetanz**. Aqui estão algumas informações caso você queira me conhecer melhor:
 
-- Eu estudo programação desde 2022.
+- Eu estudo programação desde 2021.
 - Já estudei alguns cursos na [Alura](https://www.alura.com.br).
 - Possuo diploma técnico em informática.
 - Sou instrutora de programação e robótica.
