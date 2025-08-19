@@ -6,7 +6,7 @@ Obrigada por visitar o meu perfil do GitHub! Eu sou a **Bianca Liebetanz**. Aqui
 - Já estudei alguns cursos na [Alura](https://www.alura.com.br).
 - Possuo diploma técnico em informática.
 - Graduação em andamento de ADS na FATEC.
-- Sou instrutora de programação e robótica.
+- Já fui instrutora de programação e robótica.
 - Estou em busca de projetos freelance!
 
 ### Gostaria de entrar em contato comigo? Acesse minhas redes! 😇
