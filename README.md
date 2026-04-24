@@ -2,7 +2,6 @@
 
 Obrigada por visitar o meu perfil do GitHub! Eu sou a **Bianca Liebetanz**. Aqui estão algumas informações caso você queira me conhecer melhor:
 
-- Eu estudo programação desde 2021.
 - Possuo diploma técnico em informática e fiz alguns cursos na [Alura](https://www.alura.com.br).
 - Graduação em Análise e Desenvolvimento de Sistemas na FATEC (2025-2027) 
 - Já fui instrutora de programação e robótica.
@@ -11,7 +10,7 @@ Obrigada por visitar o meu perfil do GitHub! Eu sou a **Bianca Liebetanz**. Aqui
 
 ### Gostaria de entrar em contato comigo? Acesse minhas redes! 😇
 
-biancalbtz@gmail.com 
+biancalbtz@gmail.com ou biancaliebetanz.dev@gmail.com
 
 [Bianca Liebetanz | LinkedIn](https://www.linkedin.com/in/bianca-liebetanz)
 
